@@ -1,0 +1,41 @@
+@relation RNA
+@attribute Feature1 real
+@attribute Feature2 real
+@attribute Feature3 real
+@attribute Feature4 real
+@attribute Feature5 real
+@attribute Feature6 real
+@attribute Feature7 real
+@attribute Feature8 real
+@attribute Feature9 real
+@attribute Feature10 real
+@attribute Feature11 real
+@attribute Feature12 real
+@attribute Feature13 real
+@attribute Feature14 real
+@attribute Feature15 real
+@attribute Feature16 real
+@attribute Feature17 real
+@attribute Feature18 real
+@attribute Feature19 real
+@attribute class1 {0,1}
+@attribute class2 {0,1}
+@attribute class3 {0,1}
+@attribute class4 {0,1}
+@attribute class37 {0,1}
+@attribute class5 {0,1}
+@attribute class16 {0,1}
+@attribute class7 {0,1}
+@attribute class9 {0,1}
+@attribute class12 {0,1}
+@attribute class17 {0,1}
+@attribute class23 {0,1}
+@attribute class8 {0,1}
+@attribute class24 {0,1}
+@attribute class32 {0,1}
+@attribute class34 {0,1}
+@attribute class35 {0,1}
+@attribute class38 {0,1}
+@attribute class39 {0,1}
+@data
+0.05583552,0.01954243,0.02512598,0.04746019,0.02791776,0.03629309,0.0,0.05583552,0.03350131,0.01954243,0.02791776,0.00837533,0.03350131,0.04466841,0.03629309,0.04466841,0.17696472,0.16411618,0.14244058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
