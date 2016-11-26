@@ -98,7 +98,6 @@ UCUUUGGCUAGGGGAGGGGAGGAACAAUCAACUCUCCUCCCAUAUGCUUUAACUUCCAUGUCUAUUUUGCCAUUAUCCCU
                     </div>
                 </c:if>
 
-
 				<!-- 引用模块 -->
 				<%--<div class="col-md-12 alert alert-dismissible alert-info">
 	                 <p><strong>Cite Halign Server in a publication:</strong><br>
